@@ -8,6 +8,9 @@
  /* Exo 1 */
  // Ton code ici...
 
+ var question1 = 'Quelle mer borde la ville de Sébastopol ?';
+ var solution1 = 'la mer Noire';
+
  /* Exo 2 */
  // Ton code ici...
 
